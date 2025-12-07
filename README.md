@@ -14,6 +14,7 @@ This project is a compact Arduino-based health monitoring system that measures t
 - LM35
 - Jumper Wires
 - Breadboard
+- Buzzer
 
 # 🔹Libraries
 - [SparkFun_MAX3010x_Sensor_Library](https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library)
