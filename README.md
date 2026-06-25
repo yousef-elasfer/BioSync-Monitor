@@ -1,3 +1,5 @@
+<img width="1491" height="773" alt="image" src="https://github.com/user-attachments/assets/9bb032bb-a6af-46ce-b410-c7e68b1e02d0" />
+
 # BioSync Monitor V1.0
 This project is a compact Arduino-based health monitoring system that measures two essential vital signs: heart rate (BPM) and body temperature (BBT). Using the MAX30102 pulse sensor and the LM35 temperature sensor.
 
